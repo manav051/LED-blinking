@@ -434,12 +434,12 @@ This activity provides practical experience in combining **embedded programming,
 ## 21. GitHub Repository
 
 **Repository Name:**  
-`Arduino-LED-Blink-GitHub-QA`
+`LED blink`
 
 **Repository Link:**  
 `https://github.com/manav051/Arduino-LED-Blink-GitHub-QA`
 
-> Replace `<your-username>` with your actual GitHub username.
+
 
 ---
 
